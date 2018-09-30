@@ -1,3 +1,5 @@
+#Auto Ads Skipper Extension
+
 ## WTF this magic is?
 
 A chrome extension that automates skipping ad on Youtube. This is not an ad blocker, it just automates the process of clicking on the "Skip Ad" button on Youtube.
