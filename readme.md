@@ -1,4 +1,4 @@
-#Auto Ads Skipper Extension
+
 
 ## WTF this magic is?
 
