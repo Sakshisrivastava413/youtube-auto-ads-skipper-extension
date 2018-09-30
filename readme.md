@@ -11,7 +11,7 @@ Enjoy watching videos without uplifting hand for a single click :D :D
 ## Checkout
 
 <li>Clone the repository.</li>
-<li>Build your custom extension from `chrome://extensions/` by Load Unpacked this repo before switching to developer mode.</li>
+<li>Build your custom extension from `chrome://extensions/` by Load Unpacked this repo after switching to developer mode.</li>
 <li>Switch on the extension and Yuhuu.. you are ready for autoskipping ads on any youtube video.</li>
 
 ### Hard Part
